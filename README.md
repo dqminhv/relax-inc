@@ -37,25 +37,23 @@ List of classifiers:
   * Random Forest
   * Voting
 Best classifier:
-* KNeighbors - Cross-validation scores: [0.76480209 0.79326137 0.80536474 0.8083088  0.81151832], Mean accuracy: 0.7966510643326534
-* Model performance:
-  ** Accuracy: 0.9141666666666667
-  ** Confusion Matrix:
-      [[1911    0]
-       [ 206  283]]
+* KNeighbors
+  ** Cross-validation scores: [0.76480209 0.79326137 0.80536474 0.8083088  0.81151832]
+  ** Mean accuracy: 0.7966510643326534
+  ** Model performance:
+     ** Accuracy: 0.9141666666666667
+     ** Confusion Matrix:
+      [1911, 0]
+     [206, 283]
   ** Classification Report
-              precision    recall  f1-score   support
+![image](https://github.com/dqminhv/Springboard_RelaxInc/assets/73676962/1dc2e515-d7e9-437a-99b7-f5157763cb62)
 
-         0.0       0.90      1.00      0.95      1911
-         1.0       1.00      0.58      0.73       489
-
-    accuracy                           0.91      2400
-   macro avg       0.95      0.79      0.84      2400
-weighted avg       0.92      0.91      0.90      2400
 
 ## Features Importance
 * With Random Forest Classifier
 * ![image](https://github.com/dqminhv/Springboard_RelaxInc/assets/73676962/4c49dc69-0878-46ff-9e17-c1649d177a05)
+
+
 **From the features importance plot, we see that three most importance features are:**
   * **Last login time**
   * **If the account is for a personal project.**
