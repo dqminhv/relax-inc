@@ -19,15 +19,14 @@
    * Organization Id: 355
    * Organization Id: 412
    * Organization Id: 416
-* 5 users with the most invitation:
-   * User_id   No. of invitation
-   * 10741.0    13
-   * 2527.0     12
-   * 1525.0     11
-   * 11770.0    11
-   * 2308.0     11
+* 5 users with the most invitation (User_id, No. of invitation):
+   * (10741, 13)
+   * (2527, 12)
+   * (1525, 11)
+   * (11770, 11)
+   * (2308, 11)
 ## Model Selections
-List of classifiers:
+**List of classifiers:**
   * MultinomialNB
   * SVM
   * Logistic Regression
@@ -37,7 +36,7 @@ List of classifiers:
   * AdaBoost
   * Random Forest
   * Voting
-Best classifier:
+**Best classifier:**
 * KNeighbors
    * Cross-validation scores: [0.76480209 0.79326137 0.80536474 0.8083088  0.81151832]
    * Mean accuracy: 0.7966510643326534
@@ -52,7 +51,7 @@ Best classifier:
 
 ## Features Importance
 * With Random Forest Classifier
-* ![image](https://github.com/dqminhv/Springboard_RelaxInc/assets/73676962/4c49dc69-0878-46ff-9e17-c1649d177a05)
+![image](https://github.com/dqminhv/Springboard_RelaxInc/assets/73676962/4c49dc69-0878-46ff-9e17-c1649d177a05)
 
 
 **From the features importance plot, we see that three most importance features are:**
