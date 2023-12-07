@@ -45,11 +45,11 @@
       * Accuracy: 0.9141666666666667
       * Confusion Matrix:
         
-      * ![image](https://github.com/dqminhv/Springboard_RelaxInc/assets/73676962/52298127-9aa2-444a-b5cf-3f24b310ea78)
+       ![image](https://github.com/dqminhv/Springboard_RelaxInc/assets/73676962/52298127-9aa2-444a-b5cf-3f24b310ea78)
 
       * Classification Report
         
-      * ![image](https://github.com/dqminhv/Springboard_RelaxInc/assets/73676962/1dc2e515-d7e9-437a-99b7-f5157763cb62)
+       ![image](https://github.com/dqminhv/Springboard_RelaxInc/assets/73676962/1dc2e515-d7e9-437a-99b7-f5157763cb62)
 
 
 ## Features Importance
