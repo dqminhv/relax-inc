@@ -20,11 +20,12 @@
    * Organization Id: 412
    * Organization Id: 416
 * 5 users with the most invitation:
-  ** 10741.0    13
-  ** 2527.0     12
-  ** 1525.0     11
-  ** 11770.0    11
-  ** 2308.0     11
+   * User_id   No. of invitation
+   * 10741.0    13
+   * 2527.0     12
+   * 1525.0     11
+   * 11770.0    11
+   * 2308.0     11
 ## Model Selections
 List of classifiers:
   * MultinomialNB
@@ -38,14 +39,14 @@ List of classifiers:
   * Voting
 Best classifier:
 * KNeighbors
-  ** Cross-validation scores: [0.76480209 0.79326137 0.80536474 0.8083088  0.81151832]
-  ** Mean accuracy: 0.7966510643326534
-  ** Model performance:
-     ** Accuracy: 0.9141666666666667
-     ** Confusion Matrix:
+   * Cross-validation scores: [0.76480209 0.79326137 0.80536474 0.8083088  0.81151832]
+   * Mean accuracy: 0.7966510643326534
+   * Model performance:
+      * Accuracy: 0.9141666666666667
+      * Confusion Matrix:
       [1911, 0]
      [206, 283]
-  ** Classification Report
+   * Classification Report
 ![image](https://github.com/dqminhv/Springboard_RelaxInc/assets/73676962/1dc2e515-d7e9-437a-99b7-f5157763cb62)
 
 
