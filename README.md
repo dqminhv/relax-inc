@@ -4,21 +4,21 @@
 * Total number of adopted users: 2,440 (20.4%)
 * Creation source that has the highest percentage of adopted users: 'PERSONAL_PROJECT'
 * Top 10 organizations by number of adopted users: 
-    ** Organization Id: 0, Number of adopted users: 27
-    ** Organization Id: 4, Number of adopted users: 24
-    ** Organization Id: 7, Number of adopted users: 23
-    ** Organization Id: 9, Number of adopted users: 23
-    ** Organization Id: 1, Number of adopted users: 22
-    ** Organization Id: 2, Number of adopted users: 21
-    ** Organization Id: 6, Number of adopted users: 20
-    ** Organization Id: 3, Number of adopted users: 19
-    ** Organization Id: 5, Number of adopted users: 17
-    ** Organization Id: 8, Number of adopted users: 16
-* Organizations that do not have adopted users: 
-  ** Organization Id: 183
-  ** Organization Id: 355
-  ** Organization Id: 412
-  ** Organization Id: 416
+    * Organization Id: 0, Number of adopted users: 27
+    * Organization Id: 4, Number of adopted users: 24
+    * Organization Id: 7, Number of adopted users: 23
+    * Oganization Id: 9, Number of adopted users: 23
+    * Organization Id: 1, Number of adopted users: 22
+    * Organization Id: 2, Number of adopted users: 21
+    * Organization Id: 6, Number of adopted users: 20
+    * Organization Id: 3, Number of adopted users: 19
+    * Organization Id: 5, Number of adopted users: 17
+    * Organization Id: 8, Number of adopted users: 16
+* Organizations that do not have adopted users:
+   * Organization Id: 183
+   * Organization Id: 355
+   * Organization Id: 412
+   * Organization Id: 416
 * 5 users with the most invitation:
   ** 10741.0    13
   ** 2527.0     12
