@@ -39,19 +39,22 @@
 
 **Best classifier:**
 * KNeighbors
-   * Cross-validation scores: [0.76480209 0.79326137 0.80536474 0.8083088  0.81151832]
+   * Cross-validation scores: [0.76480209, 0.79326137, 0.80536474, 0.8083088,  0.81151832]
    * Mean accuracy: 0.7966510643326534
    * Model performance:
       * Accuracy: 0.9141666666666667
       * Confusion Matrix:
+        
       * ![image](https://github.com/dqminhv/Springboard_RelaxInc/assets/73676962/52298127-9aa2-444a-b5cf-3f24b310ea78)
 
       * Classification Report
+        
       * ![image](https://github.com/dqminhv/Springboard_RelaxInc/assets/73676962/1dc2e515-d7e9-437a-99b7-f5157763cb62)
 
 
 ## Features Importance
-* With Random Forest Classifier
+**With Random Forest Classifier**
+
 ![image](https://github.com/dqminhv/Springboard_RelaxInc/assets/73676962/4c49dc69-0878-46ff-9e17-c1649d177a05)
 
 
