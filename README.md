@@ -1,4 +1,4 @@
-# Springboard_RelaxInc
+# Relax Inc
 ## EDA
 * Total number of users: 12,000
 * Total number of adopted users: 2,440 (20.4%)
@@ -7,7 +7,7 @@
     * Organization Id: 0, Number of adopted users: 27
     * Organization Id: 4, Number of adopted users: 24
     * Organization Id: 7, Number of adopted users: 23
-    * Oganization Id: 9, Number of adopted users: 23
+    * Organization Id: 9, Number of adopted users: 23
     * Organization Id: 1, Number of adopted users: 22
     * Organization Id: 2, Number of adopted users: 21
     * Organization Id: 6, Number of adopted users: 20
@@ -58,8 +58,8 @@
 ![image](https://github.com/dqminhv/Springboard_RelaxInc/assets/73676962/4c49dc69-0878-46ff-9e17-c1649d177a05)
 
 
-**From the features importance plot, we see that three most importance features are:**
+**From the features importance plot, we see that the three most important features are:**
   * **Last login time**
   * **If the account is for a personal project.**
-  * **If a user is invited by another user.**
+  * **If another user invites a user.**
 
